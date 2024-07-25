@@ -11,7 +11,6 @@ class Program
     static async Task Main(string[] args)
     {
         var config = await ReadConfigFromFileAsync("config.json");
-    
 
         HttpClient client = new HttpClient();
         int totalCalls = 0;
