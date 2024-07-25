@@ -1,0 +1,15 @@
+C:\Users\97250\source\repos\HttpCaller\HttpCaller\bin\Debug\net8.0\HttpCaller.exe
+C:\Users\97250\source\repos\HttpCaller\HttpCaller\bin\Debug\net8.0\HttpCaller.deps.json
+C:\Users\97250\source\repos\HttpCaller\HttpCaller\bin\Debug\net8.0\HttpCaller.runtimeconfig.json
+C:\Users\97250\source\repos\HttpCaller\HttpCaller\bin\Debug\net8.0\HttpCaller.dll
+C:\Users\97250\source\repos\HttpCaller\HttpCaller\bin\Debug\net8.0\HttpCaller.pdb
+C:\Users\97250\source\repos\HttpCaller\HttpCaller\obj\Debug\net8.0\HttpCaller.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\97250\source\repos\HttpCaller\HttpCaller\obj\Debug\net8.0\HttpCaller.AssemblyInfoInputs.cache
+C:\Users\97250\source\repos\HttpCaller\HttpCaller\obj\Debug\net8.0\HttpCaller.AssemblyInfo.cs
+C:\Users\97250\source\repos\HttpCaller\HttpCaller\obj\Debug\net8.0\HttpCaller.csproj.CoreCompileInputs.cache
+C:\Users\97250\source\repos\HttpCaller\HttpCaller\obj\Debug\net8.0\HttpCaller.dll
+C:\Users\97250\source\repos\HttpCaller\HttpCaller\obj\Debug\net8.0\refint\HttpCaller.dll
+C:\Users\97250\source\repos\HttpCaller\HttpCaller\obj\Debug\net8.0\HttpCaller.pdb
+C:\Users\97250\source\repos\HttpCaller\HttpCaller\obj\Debug\net8.0\HttpCaller.genruntimeconfig.cache
+C:\Users\97250\source\repos\HttpCaller\HttpCaller\obj\Debug\net8.0\ref\HttpCaller.dll
+C:\Users\97250\source\repos\HttpCaller\HttpCaller\obj\Debug\net8.0\HttpCaller.sourcelink.json
